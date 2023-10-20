@@ -1,8 +1,8 @@
 import React from "react";
-// import Counter from "./Counter";
-// import Usestates from "./Usestates";
-// import UseStatesWithObjects from "./UseStatesWithObjects";
-import BasicForm from "./BasicForm";
+import Counter from "./Components/Counter";
+import Usestates from "./Components/Usestates";
+import UseStatesWithObjects from "./Components/UseStatesWithObjects";
+import BasicForm from "./Components/BasicForm";
 
 const App = () => {
     return (
